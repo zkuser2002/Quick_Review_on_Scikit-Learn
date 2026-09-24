@@ -1,2 +1,43 @@
-# Review_Scikit-Learn
-Scikit-learn is a free machine learning library for Python. It contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction. In this tutorial we will learn to code python and apply Machine Learning with the help of the scikit-learn library
+A practical review of Scikit-learn fundamentals and commonly used tools for machine learning.
+
+### Topics Covered
+
+•	Data preprocessing
+
+•	Train-test split
+
+•	Feature scaling
+
+•	Model training
+
+•	Model evaluation
+
+•	Classification
+
+•	Regression
+
+•	Clustering
+
+### Purpose
+
+This repository was created as a learning and practice project while reviewing Scikit-learn for machine learning and data analysis.
+
+### Documentation
+
+•	[docs/Part01.pdf]
+
+•	[docs/Part02.pdf]
+
+•	[docs/Part03.pdf]
+
+•	[docs/Part04.pdf]
+
+•	[docs/Part05.pdf]
+
+•	[docs/Part06.pdf]
+
+•	[docs/Part07.pdf]
+
+
+
+PaPa
