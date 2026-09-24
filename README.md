@@ -24,20 +24,16 @@ This repository was created as a learning and practice project while reviewing S
 
 ### Documentation
 
-•	[docs/Part01.pdf]
+•	[Part01](docs/Part01.pdf)
 
-•	[docs/Part02.pdf]
+•	[Part02](docs/Part02.pdf)
 
-•	[docs/Part03.pdf]
+•	[Part03](docs/Part03.pdf)
 
-•	[docs/Part04.pdf]
+•	[Part04](docs/Part04.pdf)
 
-•	[docs/Part05.pdf]
+•	[Part05](docs/Part05.pdf)
 
-•	[docs/Part06.pdf]
+•	[Part06](docs/Part06.pdf)
 
-•	[docs/Part07.pdf]
-
-
-
-PaPa
+•	[Part07](docs/Part07.pdf)
